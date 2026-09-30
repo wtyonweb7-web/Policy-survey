@@ -1,0 +1,363 @@
+{
+  "generated_at": "2026-07-30 19:04:43",
+  "recent_week_start": "2026-07-15",
+  "entries": [
+    {
+      "site": "国家发改委",
+      "time": "18:10:36",
+      "message": "开始爬取，目标栏目：https://www.ndrc.gov.cn/xxgk/，最多翻1页"
+    },
+    {
+      "site": "国家发改委",
+      "time": "18:10:36",
+      "message": "列表页解析完成，共发现 50 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "工信部",
+      "time": "18:11:06",
+      "message": "通过搜索API爬取，关键词组："
+    },
+    {
+      "site": "工信部",
+      "time": "18:11:15",
+      "message": "搜索完成，去重后共 105 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "工信部",
+      "time": "18:12:19",
+      "message": "完成，共入库 87 篇（AI相关 36 篇）"
+    },
+    {
+      "site": "科技部",
+      "time": "18:12:19",
+      "message": "开始爬取，目标栏目：https://www.most.gov.cn/satp/kjzc/zh/，最多翻10页"
+    },
+    {
+      "site": "科技部",
+      "time": "18:12:20",
+      "message": "第1页文章日期均早于2026-07-15，判定已超出最近一周范围，提前停止翻页（避免抓取历史存量）"
+    },
+    {
+      "site": "科技部",
+      "time": "18:12:20",
+      "message": "列表页解析完成，共发现 20 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "交通运输部",
+      "time": "18:12:33",
+      "message": "通过搜索API爬取，关键词组：人工智能/AI/智能/数据安全/数字化/智慧交通/大数据/自动驾驶/智能网联/机器人"
+    },
+    {
+      "site": "交通运输部",
+      "time": "18:12:41",
+      "message": "搜索完成，去重后共 81 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "交通运输部",
+      "time": "18:13:55",
+      "message": "完成，共入库 80 篇（AI相关 58 篇）"
+    },
+    {
+      "site": "教育部",
+      "time": "18:13:56",
+      "message": "开始爬取，目标栏目：http://www.moe.gov.cn/jyb_xxgk/xxgk/zhengce/，最多翻10页"
+    },
+    {
+      "site": "教育部",
+      "time": "18:13:56",
+      "message": "第1页文章日期均早于2026-07-15，判定已超出最近一周范围，提前停止翻页（避免抓取历史存量）"
+    },
+    {
+      "site": "教育部",
+      "time": "18:13:56",
+      "message": "列表页解析完成，共发现 10 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "国资委",
+      "time": "18:14:04",
+      "message": "开始爬取，目标栏目：http://www.sasac.gov.cn/n2588035/n2588320/n2588335/index.html，最多翻1页"
+    },
+    {
+      "site": "国资委",
+      "time": "18:14:04",
+      "message": "列表页解析完成，共发现 31 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "北京市发改委",
+      "time": "19:03:06",
+      "message": "开始爬取，目标栏目：https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/，最多翻1页"
+    },
+    {
+      "site": "北京市发改委",
+      "time": "19:03:06",
+      "message": "列表页解析完成，共发现 15 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "市科委",
+      "time": "19:03:18",
+      "message": "开始爬取，目标栏目：https://kw.beijing.gov.cn/zwgk/zcwj/，最多翻20页"
+    },
+    {
+      "site": "市科委",
+      "time": "19:03:18",
+      "message": "第2页文章日期均早于2026-07-15，判定已超出最近一周范围，提前停止翻页（避免抓取历史存量）"
+    },
+    {
+      "site": "市科委",
+      "time": "19:03:18",
+      "message": "列表页解析完成，共发现 40 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "开始爬取，目标栏目：https://jxj.beijing.gov.cn/zwgk/2024zcwj/，最多翻10页"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_1.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_2.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_3.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_4.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_5.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_6.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_7.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_8.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://jxj.beijing.gov.cn/zwgk/2024zcwj/index_9.html"
+    },
+    {
+      "site": "市经信局",
+      "time": "19:04:43",
+      "message": "列表页解析完成，共发现 0 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "开始爬取，目标栏目：https://www.beijing.gov.cn/zhengce/zhengcefagui/，最多翻10页"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_1.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_2.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_3.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_4.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_5.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_6.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_7.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_8.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/zhengce/zhengcefagui/index_9.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_1.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_2.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_3.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_4.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_5.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_6.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_7.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_8.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://www.beijing.gov.cn/gongkai/ldhd/index_9.html"
+    },
+    {
+      "site": "人民政府",
+      "time": "19:04:43",
+      "message": "列表页解析完成，共发现 0 篇候选文章，开始逐篇请求详情页并做AI评分"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "开始爬取，目标栏目：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/，最多翻10页"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_1.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_2.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_3.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_4.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_5.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_6.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_7.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_8.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "页面请求失败，跳过：https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_9.html"
+    },
+    {
+      "site": "人民政府(经开区)",
+      "time": "19:04:43",
+      "message": "列表页解析完成，共发现 0 篇候选文章，开始逐篇请求详情页并做AI评分"
+    }
+  ],
+  "errors": [
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_1.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_1.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_2.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_2.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_3.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_3.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_4.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_4.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_5.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_5.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_6.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_6.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_7.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_7.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_8.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_8.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://www.beijing.gov.cn/gongkai/ldhd/index_9.html: ConnectionError: HTTPSConnectionPool(host='www.beijing.gov.cn', port=443): Max retries exceeded with url: /gongkai/ldhd/index_9.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.beijing.gov.cn', port=443): Failed to resolve 'www.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/ (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_1.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_1.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_2.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_2.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_3.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_3.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_4.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_4.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_5.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_5.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_6.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_6.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_7.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_7.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_8.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_8.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "[FETCH ERROR] https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/index_9.html: ConnectionError: HTTPSConnectionPool(host='kfqgw.beijing.gov.cn', port=443): Max retries exceeded with url: /zwgkkfq/2024zcwj/index_9.html (Caused by NameResolutionError(\"HTTPSConnection(host='kfqgw.beijing.gov.cn', port=443): Failed to resolve 'kfqgw.beijing.gov.cn' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  ]
+}
